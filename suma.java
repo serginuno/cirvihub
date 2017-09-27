@@ -1,5 +1,5 @@
 
-int numero1 = 1000000000000000000000000000000000000000000000000000000000000000000000;
+int numero1 = 0;
 int numero2 = 0;
 
 System.out.println("Introduce el primer numero:");
